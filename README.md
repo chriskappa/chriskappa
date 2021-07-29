@@ -5,8 +5,9 @@
 - 👯 I’m looking to collaborate with other
 - 🥅 2020 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
-<br>
+
 ### Random Joke (Auto Generated)
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Connect with me:
