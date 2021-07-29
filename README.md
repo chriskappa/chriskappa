@@ -33,8 +33,8 @@
 
 <hr/>
 
-* Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+* User: [Christos Kagkelis](https://github.com/chriskappa)
+
 
 ### Connect with me:
 [<img align="left" alt="chriskappa github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> (https://www.instagram.com/xrhstos_kappa/)]
