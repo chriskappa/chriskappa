@@ -1,10 +1,10 @@
-### Hi there, I’m Jobin 👋
-## I’m a Husband, Father, Devops, and System Administrator!
-- 🔭 I’m currently working on a nothing
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other
-- 🥅 2020 Goals: Study and contribute to Opensource projects
-- ⚡ Fun fact: I love to travel
+### Hi there, I’m Christos 👋
+## I’m a Final Year Computer Science Student, Youtuber and Front End Developer!
+- 🔭 I’m currently working on a University Project
+- 🌱 I’m currently learning React Js , React Native and Fire Base 
+- 👯 I’m looking to collaborate with other (Fell Free To Message Me :))
+- 🥅 2021-2022 Goals: Study and contribute to Opensource projects
+
 
 ### Random Joke (Auto Generated)
 
