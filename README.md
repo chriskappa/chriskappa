@@ -8,4 +8,4 @@
 ### Connect with me:
 [<img align="left" alt="chriskappa github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.instagram.com/xrhstos_kappa/)
 [<img align="left" alt="jjames- | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="xrhstos_kappa | Instagram" width="22px" src="https://instagra.com/xrhstos_kappa" />][instagram]
+
