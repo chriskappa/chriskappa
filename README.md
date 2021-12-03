@@ -13,7 +13,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/chriskappa">
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chriskappa&layout=compact&langs_count=8&theme=algolia"/>
