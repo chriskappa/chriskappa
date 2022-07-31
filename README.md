@@ -1,5 +1,5 @@
 ### Hi there, I’m Christos 👋
-## I’m a  Computer Science Graduate, Youtuber and Full Stack Developer!
+## I’m a  Computer Science Graduate Full Stack Developer and Youtuber! 
 - 🔭 I’m  working on a MERN stack  
 - 👯 I’m looking to collaborate with other (Fell Free To Message Me :) )
 
