@@ -31,4 +31,4 @@
 
 * User: [Christos Kagkelis](https://github.com/chriskappa)
 
-![Snake animation](https://github.com/jhonatan-oliveiradev/jhonatan-oliveiradev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/chriskappa/jhonatan-oliveiradev/blob/output/github-contribution-grid-snake.svg)
