@@ -4,11 +4,6 @@
 - 👯 I’m looking to collaborate with other (Fell Free To Message Me :) )
 
 
-### Random Joke (Auto Generated)
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
